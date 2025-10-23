@@ -1,0 +1,1652 @@
+[
+  {
+    "text": "What is RedStone in the context of Web3?",
+    "options": [
+      "A modular oracle network for on-chain finance",
+      "A centralized exchange",
+      "A browser wallet",
+      "A blockchain L1"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which problem area do oracles like RedStone mainly solve?",
+    "options": [
+      "Bringing off-chain data on-chain securely",
+      "Scaling transaction throughput",
+      "Generating private keys",
+      "Building user interfaces"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which of these is a RedStone product?",
+    "options": [
+      "Price Feeds",
+      "AMM Router",
+      "NFT Marketplace",
+      "RPC Proxy"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What does a Price Feed provide to smart contracts?",
+    "options": [
+      "Asset price data",
+      "Consensus finality",
+      "Random numbers",
+      "Wallet addresses"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What does RedStone’s 'modular' design emphasize?",
+    "options": [
+      "Flexible data delivery and integration patterns",
+      "Fixed data model with one chain only",
+      "GPU mining",
+      "Custodial key storage"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Why do DeFi protocols need oracles?",
+    "options": [
+      "To fetch external data (like prices) in a trust-minimized way",
+      "To increase block size",
+      "To create NFTs automatically",
+      "To manage governance off-chain"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which is a typical use of oracles in lending protocols?",
+    "options": [
+      "Liquidation and collateral valuation",
+      "Block production",
+      "User authentication",
+      "Gas token minting"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "RedStone Price Feeds are designed to be:",
+    "options": [
+      "Reliable and efficient",
+      "Manual and slow",
+      "Proof-of-work only",
+      "Custodial"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What is 'Proof of Reserve' in the RedStone context?",
+    "options": [
+      "Attesting that on-chain assets are properly backed",
+      "Creating new tokens from reserves",
+      "Tracking MEV profits",
+      "Storing private keys"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What kind of assets can a PoR oracle help verify?",
+    "options": [
+      "Stablecoins and tokenized assets",
+      "Only NFTs",
+      "Only governance tokens",
+      "Only gas tokens"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What is RedStone Atom primarily about?",
+    "options": [
+      "Optimizing liquidations (capturing OEV) for lending",
+      "Bridging tokens cross-chain",
+      "NFT rarity scoring",
+      "Gas fee refunds"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "RedStone’s architecture aims to keep gas costs:",
+    "options": [
+      "Efficient for consumers",
+      "Unbounded",
+      "Paid by users off-chain",
+      "Zero in all cases"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A core promise of oracles is data:",
+    "options": [
+      "Integrity and freshness",
+      "User anonymity only",
+      "High hash rate",
+      "GPU acceleration"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which is most relevant to tokenized funds and RWAs?",
+    "options": [
+      "Proof of Reserve",
+      "NFT metadata pinning",
+      "MEV Search",
+      "State channels"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "In a quiz game, which RedStone product would be least relevant?",
+    "options": [
+      "Price Feeds",
+      "Proof of Reserve",
+      "Atom",
+      "AMM Liquidity Mining"
+    ],
+    "correct": 3,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which statement best describes RedStone’s mission?",
+    "options": [
+      "Serve DeFi with secure, flexible data infrastructure",
+      "Be a social media platform",
+      "Host NFT auctions",
+      "Be a centralized custody bank"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What does 'on-chain' mean for data consumption?",
+    "options": [
+      "Data is verified and used inside smart contracts",
+      "Data stored in spreadsheets",
+      "Data delivered by email",
+      "Data hosted on a private server only"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which outcome matters when liquidations trigger in lending?",
+    "options": [
+      "Accurate prices at the right time",
+      "Fancy UI animations",
+      "NFT rarity score",
+      "Gas token airdrops"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A modular oracle lets integrators:",
+    "options": [
+      "Choose delivery models that fit their chains and dApps",
+      "Use only a fixed endpoint",
+      "Avoid signatures entirely",
+      "Disable verification"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Why is timeliness important for oracle updates?",
+    "options": [
+      "Markets move quickly; stale data can be dangerous",
+      "It helps UI themes load faster",
+      "It increases token supply",
+      "It mints NFTs"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What does 'data source aggregation' typically improve?",
+    "options": [
+      "Robustness of the reported price",
+      "Gas refunds for users",
+      "Block size",
+      "Consensus speed on L1"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A simple way to reduce oracle manipulation is to:",
+    "options": [
+      "Aggregate multiple sources and verify signatures",
+      "Increase token emission",
+      "Reduce confirmations",
+      "Disable audits"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which data type is most common for DeFi price feeds?",
+    "options": [
+      "Numeric prices",
+      "Images",
+      "Strings of text",
+      "Private keys"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "RedStone can help which types of dApps?",
+    "options": [
+      "Lending, perps, RWAs, options",
+      "Only NFT drops",
+      "Only governance UIs",
+      "Only wallets"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which of these is typically NOT an oracle role?",
+    "options": [
+      "Wallet custody",
+      "Price delivery",
+      "Reserve attestation",
+      "Risk signals"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What is a 'consumer contract' in oracle terminology?",
+    "options": [
+      "A smart contract that reads oracle data",
+      "A user’s EOA",
+      "A centralized API server",
+      "An exchange hot wallet"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which phrase matches RedStone’s positioning?",
+    "options": [
+      "Build anything, anywhere (oracle-first)",
+      "GPU-mining as a service",
+      "Only one-chain support",
+      "No audits needed"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Why do protocols set deviation thresholds on price feeds?",
+    "options": [
+      "To decide when to update based on meaningful change",
+      "To throttle governance votes",
+      "To manage DNS",
+      "To change UI colors"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What is a 'heartbeat' in price feeds?",
+    "options": [
+      "A maximum time between updates",
+      "A transaction nonce",
+      "A block gas limit",
+      "A wallet seed"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "What is one benefit of off-chain signing then on-chain verification?",
+    "options": [
+      "Gas efficiency while preserving integrity",
+      "No need for keys",
+      "Higher block size",
+      "Lower cryptography"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which is true about RedStone and DeFi risk?",
+    "options": [
+      "It can provide inputs for risk-aware decisions",
+      "It replaces audits fully",
+      "It prevents all hacks",
+      "It runs governance automatically"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Price Feeds are most critical for:",
+    "options": [
+      "Protocols that depend on asset valuations",
+      "Pure messaging dApps",
+      "Social tokens only",
+      "Private chat"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Proof of Reserve most directly supports:",
+    "options": [
+      "Transparent backing for assets",
+      "NFT mint randomness",
+      "DAO voting gas refunds",
+      "Bridges without relayers"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Atom (OEV) helps protocols by:",
+    "options": [
+      "Capturing value around liquidations",
+      "Minting governance NFTs",
+      "Reducing L1 block time",
+      "Managing RPC nodes"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which one is a property of a good oracle?",
+    "options": [
+      "Accurate, timely, verifiable data",
+      "Secret data only",
+      "Unlimited gas use",
+      "Centralized control"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "RedStone is focused on:",
+    "options": [
+      "On-chain finance use cases",
+      "CeFi exchange order books only",
+      "Game graphics",
+      "Private messaging"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Why avoid hard-coding prices in smart contracts?",
+    "options": [
+      "Markets change; prices must update securely",
+      "Hard-coded is always faster",
+      "Auditors require it",
+      "Users prefer constants"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A liquidation bot uses oracle data to:",
+    "options": [
+      "Determine when positions are underwater",
+      "Mint NFTs",
+      "Vote in DAOs",
+      "Generate images"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Oracles help perps by:",
+    "options": [
+      "Feeding index/mark prices",
+      "Generating front-end HTML",
+      "Storing private keys",
+      "Sharding validators"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which is closest to 'modular oracle'?",
+    "options": [
+      "Composable pieces for sourcing, delivery, and consumption",
+      "Single monolith endpoint",
+      "GPU mining farms",
+      "Only HTTP feeds"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A 'pull' model means contracts:",
+    "options": [
+      "Obtain data on-demand when needed",
+      "Push data to UIs",
+      "Post to social media",
+      "Generate randomness"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A 'push' model means:",
+    "options": [
+      "Data is proactively delivered on-chain for consumers",
+      "Users push UI buttons",
+      "L2s push blocks to L1",
+      "Wallets push gas prices"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A reasonable fallback strategy for price feeds is to:",
+    "options": [
+      "Use multiple sources and last-known-good rules",
+      "Rely on one source only",
+      "Disable updates",
+      "Use user-submitted numbers"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "In RWAs, 'NAV' most closely means:",
+    "options": [
+      "Net Asset Value",
+      "Native Asset Volume",
+      "Network Active Validators",
+      "New Address Verification"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which RedStone component most closely fits RWA attestation?",
+    "options": [
+      "Proof of Reserve",
+      "Atom",
+      "AMM router",
+      "Bridge relayer"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which of these is NOT needed to verify oracle data on-chain?",
+    "options": [
+      "Twitter handle",
+      "Signature",
+      "Data payload",
+      "Signing public key"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A typical consumer contract will:",
+    "options": [
+      "Decode signed data and read a value by id",
+      "Render images",
+      "Send emails",
+      "Mint gas tokens"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Why is composability important for oracles?",
+    "options": [
+      "Different dApps and chains need different delivery models",
+      "To increase private key count",
+      "To remove audits",
+      "To break EVM rules"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "RedStone’s products can benefit:",
+    "options": [
+      "Lending, perps, RWAs, options, structured finance",
+      "Only NFT games",
+      "Only bridge UIs",
+      "Only wallets"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "A good oracle integration plan includes:",
+    "options": [
+      "Update conditions, fallback logic, and verification checks",
+      "Only front-end theming",
+      "Only DAO votes",
+      "Only gas sponsorship"
+    ],
+    "correct": 0,
+    "mode": "beginner"
+  },
+  {
+    "text": "Which statement best captures RedStone’s modular approach?",
+    "options": [
+      "Separate concerns for sourcing, signing, delivery, and consumption",
+      "Bundle everything into one opaque contract",
+      "Use only one data source",
+      "Off-chain only"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Why would a protocol choose a push-model delivery from RedStone?",
+    "options": [
+      "They want proactive updates with minimal on-demand gas",
+      "They dislike on-chain verification",
+      "They require email alerts",
+      "They only run on L1 Bitcoin"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Why would a protocol choose a pull-model delivery from RedStone?",
+    "options": [
+      "They prefer on-demand reads to save gas when idle",
+      "They cannot verify signatures",
+      "They only want front-end updates",
+      "It disables security"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Which component helps verify the authenticity of oracle data?",
+    "options": [
+      "Digital signatures and public keys",
+      "Front-end CSS",
+      "Cookie banners",
+      "Server IP allowlists"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What role does deviation threshold play in an updater bot?",
+    "options": [
+      "Triggers updates only when price moves meaningfully",
+      "Blocks all updates",
+      "Changes RPC endpoints",
+      "Sets gas price to zero"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What does a heartbeat ensure for feeds?",
+    "options": [
+      "An upper bound on staleness even if prices don’t move",
+      "Permanent price freezing",
+      "Off-chain governance",
+      "Free gas"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Proof of Reserve evidence typically contains:",
+    "options": [
+      "Attestations about reserves and liabilities/backing",
+      "Only token logos",
+      "Usernames",
+      "Private keys"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A consumer reading multiple feeds should:",
+    "options": [
+      "Validate each payload/signature and handle per-feed freshness",
+      "Assume all are fresh",
+      "Skip signature checks to save gas",
+      "Put logic in the UI only"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What is 'OEV' in the context of Atom?",
+    "options": [
+      "Oracle Extractable Value around liquidations",
+      "Optimistic External Value",
+      "Off-chain Ethereum Volume",
+      "Oracle Edge Variance"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "How does Atom benefit lenders?",
+    "options": [
+      "Better liquidation outcomes via timely, fair pricing",
+      "Mint governance NFTs",
+      "Randomize user IDs",
+      "Shorten block time"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A typical RedStone consumer on EVM identifies feeds by:",
+    "options": [
+      "bytes32 identifiers",
+      "uint8 opcodes only",
+      "raw strings at runtime",
+      "account nonces"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Why is gas-efficiency important for oracle delivery?",
+    "options": [
+      "To keep protocol operations sustainable",
+      "To enlarge blocks",
+      "To reduce decentralization",
+      "To increase UI frame rate"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What’s a safe fallback if a feed becomes stale?",
+    "options": [
+      "Use a backup source or circuit-breaker logic",
+      "Continue as-is indefinitely",
+      "Accept user input price",
+      "Turn the protocol off"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Which of these best describes RedStone Bolt?",
+    "options": [
+      "A low-latency delivery path for fast-moving markets",
+      "A staking token",
+      "A bridge protocol",
+      "A block explorer"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "When integrating many feeds, a good practice is to:",
+    "options": [
+      "Batch verify signatures to amortize costs",
+      "Verify nothing",
+      "Hard-code prices",
+      "Only update UI"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A secure PoR workflow for tokenized assets requires:",
+    "options": [
+      "Trusted attestations and on-chain verification",
+      "Only tweets",
+      "Anonymous DMs",
+      "Flashloan prevention alone"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "On L2s/L3s, a modular oracle helps because:",
+    "options": [
+      "Different latency and fee profiles need tailored delivery",
+      "They always use PoW",
+      "They forbid signatures",
+      "They ban price feeds"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What is the risk of over-updating feeds?",
+    "options": [
+      "Wasting gas without added safety",
+      "Losing signatures",
+      "Hard for UIs to render",
+      "Breaking wallets"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What is the risk of under-updating feeds?",
+    "options": [
+      "Stale data causing incorrect protocol actions",
+      "Too many signatures",
+      "Too fast blocks",
+      "Color mismatches"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Why track feed freshness per asset?",
+    "options": [
+      "Different assets move differently; one timer doesn’t fit all",
+      "All assets move identically",
+      "It saves storage permanently",
+      "It removes need for signatures"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What’s a safe way to roll out new feeds?",
+    "options": [
+      "Start with canaries and circuit-breakers",
+      "Push to prod without checks",
+      "Disable logs",
+      "Hide in UI"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "The main goal of Price Feeds is to provide:",
+    "options": [
+      "Accurate, timely, tamper-evident prices",
+      "Randomness",
+      "Key custody",
+      "DAO vote counting"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Which statement about RedStone consumer contracts is true?",
+    "options": [
+      "They decode signed payloads and map ids to values",
+      "They call UI endpoints",
+      "They manage wallets",
+      "They mine blocks"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Which is a valid reason to prefer pull model on some chains?",
+    "options": [
+      "Reduce base costs when you don’t need constant updates",
+      "Because signatures are unsafe",
+      "To disable auditing",
+      "To remove aggregation"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "How do aggregations improve robustness?",
+    "options": [
+      "They reduce single-source bias/manipulation",
+      "They increase MEV",
+      "They remove need for audits",
+      "They remove signatures"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Why might a perps protocol need faster paths like Bolt?",
+    "options": [
+      "Mark price/Index price must react quickly",
+      "Because UI colors change",
+      "Because wallets demand it",
+      "To reduce block size"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Which unit test is most critical for a price consumer?",
+    "options": [
+      "Verifies signature and id mapping",
+      "Checks CSS breakpoints",
+      "Counts UI clicks",
+      "Measures image compression"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A chain-specific adapter in a modular oracle helps:",
+    "options": [
+      "Fit delivery to the chain’s cost/latency model",
+      "Remove verification",
+      "Create private keys",
+      "Mint NFTs"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "In PoR, 'attestation freshness' matters because:",
+    "options": [
+      "Backing can change; stale proofs mislead users",
+      "It reduces UI calls",
+      "It mines new blocks",
+      "It compresses images"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A robust integration should test for:",
+    "options": [
+      "Staleness, signature validity, deviation triggers",
+      "Only gas price",
+      "Only UI color",
+      "Only node version"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A long-tail asset policy should include:",
+    "options": [
+      "Tight deviation thresholds and strict fallbacks",
+      "No thresholds",
+      "User DMs",
+      "Open redirects"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "When handling outages, a protocol can:",
+    "options": [
+      "Pause actions or switch to safer mode",
+      "Ignore and continue",
+      "Ask users to guess prices",
+      "Mint governance NFTs"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What is an SLA in oracle context?",
+    "options": [
+      "Service-level expectations for delivery and freshness",
+      "Smart Link Adapter",
+      "Secret Ledger Agreement",
+      "Signature List Archive"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A minimal consumer integration typically needs:",
+    "options": [
+      "Feed ids, verification keys, update logic",
+      "Front-end CSS",
+      "Mobile push notifications",
+      "Node private keys"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Why record the last-good value?",
+    "options": [
+      "For safer behavior during temporary issues",
+      "For UI theming",
+      "For token airdrops",
+      "For NFT rarity"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Why use multiple signers/aggregators?",
+    "options": [
+      "Increase resilience and decentralization",
+      "Increase CSS size",
+      "Reduce cryptography",
+      "Increase staleness"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Which best describes a 'consumer base' contract?",
+    "options": [
+      "Reusable logic to parse/verify payloads",
+      "Front-end widget",
+      "Block explorer plugin",
+      "Wallet provider"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Which is a typical feed id format on EVM for RedStone?",
+    "options": [
+      "bytes32-encoded symbol id",
+      "uint8 index",
+      "ASCII string",
+      "Address nonce"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A durable oracle integration should keep track of:",
+    "options": [
+      "Timestamp, value, and signer set used",
+      "User email",
+      "Browser cookies",
+      "Wallet seed phrases"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What is the danger of using a single data source?",
+    "options": [
+      "Manipulation/outage from that source affects the feed",
+      "Cheaper gas",
+      "Better UX",
+      "Higher TPS"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Circuit-breakers in oracle usage are meant to:",
+    "options": [
+      "Halt risky actions on abnormal prices",
+      "Speed up UI CSS",
+      "Mint NFTs",
+      "Increase gas"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "If an asset trades 24/7, a heartbeat should be:",
+    "options": [
+      "Short enough to avoid staleness",
+      "Undefined",
+      "One year",
+      "Never triggered"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "If a protocol mostly needs daily prices, it should:",
+    "options": [
+      "Prefer slower cadence to save gas",
+      "Update several times per block",
+      "Disable verification",
+      "Use user input"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "When prices gap violently, a safe protocol might:",
+    "options": [
+      "Increase margin of safety, slow down risky actions",
+      "Ignore it",
+      "Airdrop tokens",
+      "Pause UI only"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A pull consumer often reads values via:",
+    "options": [
+      "A library / base contract decoding signed payloads",
+      "Hard-coded constants",
+      "Front-end DOM",
+      "RPC cookies"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Bolt-like paths are most relevant to:",
+    "options": [
+      "High-frequency strategies and perps",
+      "Weekly rebalancing only",
+      "Governance voting",
+      "NFT metadata refresh"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "RedStone can support RWAs by:",
+    "options": [
+      "Delivering reserve/NAV attestations on-chain",
+      "Minting fiat",
+      "Becoming a custodian",
+      "Replacing audits"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "A fair liquidation relies on:",
+    "options": [
+      "Accurate, timely feeds at trigger time",
+      "UI gradients",
+      "DAO turnout",
+      "Bridge signatures"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "Why keep integration abstracts versioned?",
+    "options": [
+      "Easier upgrades and audits",
+      "More colors",
+      "Less cryptography",
+      "Bigger blocks"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "What should a protocol monitor in prod?",
+    "options": [
+      "Feed freshness, deviations, signer set health",
+      "User cookies",
+      "UI clicks",
+      "Wallet seeds"
+    ],
+    "correct": 0,
+    "mode": "standard"
+  },
+  {
+    "text": "In RedStone EVM consumers, feed identifiers are typically:",
+    "options": [
+      "bytes32",
+      "string",
+      "address",
+      "uint8"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A consumer using RedStone will first:",
+    "options": [
+      "Verify the signature over the payload",
+      "Assume payload is trusted",
+      "Skip ids",
+      "Write to storage"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A robust decoding path should:",
+    "options": [
+      "Check schema/hash, signer, timestamp bounds",
+      "Skip timestamp",
+      "Trust calldata blindly",
+      "Rely on UI"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Push-model delivery on EVM typically involves:",
+    "options": [
+      "Transactions that publish values for later reads",
+      "Pulling from view functions only",
+      "Browser JS calls",
+      "Off-chain cron without txs"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Pull-model consumption often uses a helper like:",
+    "options": [
+      "Consumer base/library to parse values from calldata/tx msg",
+      "UI toolkit",
+      "Wallet connect",
+      "RPC cookies"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A deviation-based updater should compute:",
+    "options": [
+      "Absolute/relative change vs last value",
+      "Gas price histograms",
+      "UI color palettes",
+      "Wallet entropy"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A heartbeat checker enforces:",
+    "options": [
+      "Max age for last update regardless of deviation",
+      "Min block time",
+      "Front-end cache",
+      "DNS TTL"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Staleness is measured from:",
+    "options": [
+      "Timestamp in the signed payload",
+      "Block timestamp only",
+      "Node clock drift",
+      "UI clock"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "To batch-verify multiple feeds you can:",
+    "options": [
+      "Aggregate signatures or loop efficiently over payloads",
+      "Skip verification",
+      "Use cookies",
+      "Cache DOM"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "On-chain value scaling is needed because:",
+    "options": [
+      "Prices use fixed decimals; contracts scale them to integer units",
+      "All values are floats natively",
+      "Solidity stores strings",
+      "JS needs them"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "When mixing sources, an aggregator should:",
+    "options": [
+      "Filter outliers and compute a robust statistic",
+      "Pick first value",
+      "Use last tweet",
+      "Randomize"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "OEV capture in Atom needs:",
+    "options": [
+      "Timely price and fair liquidation logic",
+      "Long block times",
+      "Admin keys only",
+      "Off-chain emails"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A secure PoR design should include:",
+    "options": [
+      "Signer rotation, timestamped attestations, on-chain checks",
+      "Only PDFs",
+      "No signatures",
+      "Static web pages"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "To avoid re-entrancy on liquidation:",
+    "options": [
+      "Use checks-effects-interactions and guards",
+      "Skip checks",
+      "Call external first",
+      "Use tx.origin"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A gas-efficient consumer avoids:",
+    "options": [
+      "Unnecessary storage writes",
+      "Static linking",
+      "Internal functions",
+      "View calls"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "RedStone consumers on EVM often expose a helper to:",
+    "options": [
+      "Read a value by bytes32 id from the last message",
+      "Draw charts",
+      "Mint NFTs",
+      "Set UI themes"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "If a payload signer set changes, contracts should:",
+    "options": [
+      "Validate against the current allowed signers",
+      "Ignore change",
+      "Disable checks",
+      "Use any address"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "To prevent replay with old payloads:",
+    "options": [
+      "Check timestamp/window and unique nonces if applicable",
+      "Ignore timestamps",
+      "Trust UI time",
+      "Use chain id"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Which test is critical for circuit-breakers?",
+    "options": [
+      "Freeze actions when price deviates beyond bounds",
+      "Increase TVL automatically",
+      "Disable logs",
+      "Upgrade proxy silently"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "On EVM, price values are commonly encoded as:",
+    "options": [
+      "Integers with decimals (e.g., 8 or 18) implied",
+      "IEEE 754 float",
+      "UTF-8",
+      "bool"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A multi-feed consumer should store:",
+    "options": [
+      "Per-feed last timestamp and last good value",
+      "Only one global timestamp",
+      "Only decimals",
+      "Only signer address"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A chain adapter for an L2 with high fees should:",
+    "options": [
+      "Favor pull reads unless frequent updates are essential",
+      "Push every block",
+      "Disable signatures",
+      "Use UI polling"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Bolt-like path is appropriate when:",
+    "options": [
+      "Latency requirements are sub-second to seconds",
+      "Daily cadence is enough",
+      "Only governance occurs",
+      "Only NFT minting"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "When feeds are illiquid or spiky, robust stats like:",
+    "options": [
+      "Median/trimmed mean help reduce outliers",
+      "First value wins",
+      "Random pick",
+      "Twitter likes"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A consumer must map:",
+    "options": [
+      "Feed id -> value and timestamp",
+      "User id -> NFT id",
+      "RPC -> wallet",
+      "Key -> cookie"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Signature verification in Solidity often uses:",
+    "options": [
+      "EIP-191 / ECDSA secp256k1 recovery",
+      "RSA 4096",
+      "EdDSA only",
+      "No crypto"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "If an update bot fails mid-volatile market, protocol should:",
+    "options": [
+      "Degrade safely or pause sensitive actions",
+      "Continue liquidations blindly",
+      "Cease using timestamps",
+      "Use user input"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "How to keep upgradeability safe in consumers?",
+    "options": [
+      "Use proxies with admin safeguards and audits",
+      "Unrestricted selfdestruct",
+      "No access controls",
+      "Opaque bytecode"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Which storage layout keeps gas low?",
+    "options": [
+      "Packed small types and minimal writes",
+      "Scattered large structs",
+      "Strings everywhere",
+      "Dynamic arrays only"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "For PoR, cross-checking off-chain reports with on-chain proofs:",
+    "options": [
+      "Increases assurance of real backing",
+      "Is irrelevant",
+      "Breaks EVM",
+      "Removes signatures"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "To reduce griefing in push delivery:",
+    "options": [
+      "Restrict who can push and enforce checks",
+      "Allow everyone to push",
+      "Rely on UI",
+      "Disable logs"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Feed decimals mismatch between dApp and oracle leads to:",
+    "options": [
+      "Scaling/rounding errors unless handled",
+      "No effect",
+      "More gas refunds",
+      "UI color changes"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A good incident runbook includes:",
+    "options": [
+      "Rollbacks, circuit-breakers, comms, tests",
+      "Only memes",
+      "Only UI themes",
+      "Nothing"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "To prevent signer key compromise impact:",
+    "options": [
+      "Use multi-sig/multi-signer and rotation",
+      "One admin EOA forever",
+      "Public keys in UI",
+      "Hard-coded strings"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Time-weighted averages (TWAP) are useful to:",
+    "options": [
+      "Smooth short-term volatility for decisions",
+      "Increase latency always",
+      "Reduce signatures",
+      "Store images"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "For perps funding calculations, feeds often need:",
+    "options": [
+      "Index price and periodicity",
+      "Random seeds",
+      "NFT rarity",
+      "Usernames"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A consumer that caches the last payload should:",
+    "options": [
+      "Validate freshness every use",
+      "Assume cache is eternal",
+      "Skip checks",
+      "Disable signatures"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "When changing signer set, also update:",
+    "options": [
+      "Off-chain bots and on-chain allowlists",
+      "Front-end CSS only",
+      "RPC domains",
+      "Wallet logos"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "To integrate a new asset safely you should:",
+    "options": [
+      "Simulate extreme moves and test fallbacks",
+      "Skip tests",
+      "Only deploy to mainnet",
+      "Ask users"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Why prefer immutable config for critical ids?",
+    "options": [
+      "Prevents accidental changes after deploy",
+      "Saves UI clicks",
+      "Increases decimals",
+      "Removes audits"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A consumer library should emit events when:",
+    "options": [
+      "Updates applied, fallbacks triggered, circuit-breakers tripped",
+      "UI color changes",
+      "Wallet connects",
+      "Git push"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "For fee optimization on L2, you might:",
+    "options": [
+      "Batch updates and compress payloads",
+      "Ignore fees",
+      "Increase storage arbitrarily",
+      "Use strings for numbers"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "In audits, reviewers will check:",
+    "options": [
+      "Signature logic, bounds, integer math, re-entrancy",
+      "UI theming",
+      "Repo stars",
+      "Meme quality"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A 'price anomaly' detector can:",
+    "options": [
+      "Compare against reference feeds and trigger safeties",
+      "Increase TVL automatically",
+      "Shorten blocks",
+      "Mint NFTs"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A safe liquidation bot should:",
+    "options": [
+      "Avoid sandwichable tx patterns where possible",
+      "Skip gas price control",
+      "Use tx.origin",
+      "Post to UI"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Data payload chaining means:",
+    "options": [
+      "Including multiple feed values/messages for one tx",
+      "Chaining wallets",
+      "Chaining UIs",
+      "Chaining RPCs"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "To verify payload domain separation:",
+    "options": [
+      "Include chain id/app id in signed message",
+      "Skip domain",
+      "Use block hash",
+      "Use UI theme"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "Which on-chain check helps avoid replay across chains?",
+    "options": [
+      "Check domain/chain id in signed data",
+      "Check UI version",
+      "Check CSS",
+      "Random color"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "A clean separation between aggregator signer and pusher helps:",
+    "options": [
+      "Limit key blast radius and roles",
+      "Increase latency",
+      "Remove audits",
+      "Centralize control"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  },
+  {
+    "text": "End-to-end tests for oracle delivery should include:",
+    "options": [
+      "Signer rotation, stale feeds, deviation spikes, circuit-breakers",
+      "Only UI clicks",
+      "Only comments",
+      "Only mainnet"
+    ],
+    "correct": 0,
+    "mode": "expert"
+  }
+]
